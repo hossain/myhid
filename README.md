@@ -13,6 +13,6 @@ The program runs in background mode and uses the hidden config. For example if y
 Hackers can use this tool to perform machine based actions. For example bla bla bla.
 Now I am releasing executable and source code of this powerful beast to the public. Don't hesitate to participate or fork.
 Note that this program is intended for IT professionals and hackers. Novice users can damage or slow their windows, and there is absolutely no garantee to any use/misuse/bad use of this utility or it's source code.
-http://iraniandeveloper.wordpress.com
 By Hossein Taheri
 HTS Supported Programs
+http://iraniandeveloper.wordpress.com
